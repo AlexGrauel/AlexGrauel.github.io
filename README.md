@@ -1,4 +1,4 @@
-# AlexGrauel.github.io
+# Alexandra Grauel - Cybersecurity Portfolio
 Personal Website documenting cybersecurity related projects
 
 ## Projects
